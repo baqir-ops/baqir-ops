@@ -21,7 +21,7 @@ I am a DevOps learner focused on building **real-world infrastructure and automa
 
 ## 📦 DevOps Projects
 
-- **Kubernetes Flask Deployment** — Flask app on Minikube with 3-replica Deployment, NodePort Service, and HPA scaling (2–6 pods at 60% CPU)
+🔹 **Kubernetes Flask Deployment** — Flask app on Minikube with 3-replica Deployment, NodePort Service, and HPA scaling (2–6 pods at 60% CPU)
 
 🔹 **CI/CD Pipeline with GitHub Actions**
 Automated pipeline that runs lint checks, tests, builds Docker images, and pushes to Docker Hub.
@@ -39,10 +39,13 @@ Simulated production outage and root cause analysis to practice incident respons
 
 ## ⭐ Featured Repositories
 
-* CI/CD Flask App → https://github.com/baqir-ops/flask-cicd
-* Docker Zero to Hero → https://github.com/baqir-ops/docker-zero-to-hero
-* AWS EC2 SSH Troubleshooting → https://github.com/baqir-ops/aws-ec2-ssh-troubleshooting
-* Production Outage Simulation → https://github.com/baqir-ops/aws-production-outage-simulation
+## ⭐ Featured Repositories
+
+- **flask-eks-hpa** → https://github.com/baqir-ops/flask-eks-hpa
+- **k8s-flask-deployment** → https://github.com/baqir-ops/k8s-flask-deployment
+- **multi-env-cicd** → https://github.com/baqir-ops/multi-env-cicd
+- **docker-compose-healthcheck** → https://github.com/baqir-ops/docker-compose-healthcheck
+- **aws-production-outage-simulation** → https://github.com/baqir-ops/aws-production-outage-simulation
 
 ---
 
@@ -50,9 +53,9 @@ Simulated production outage and root cause analysis to practice incident respons
 
 Currently expanding knowledge in:
 
-* Terraform
-* Advanced CI/CD pipelines
-* Monitoring (Prometheus & Grafana)
+- ✅ Kubernetes (Minikube, HPA, Ingress)
+- Terraform
+- Monitoring (Prometheus & Grafana)
 
 ---
 
