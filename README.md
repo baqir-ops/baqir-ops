@@ -22,7 +22,7 @@ I am a DevOps learner focused on building **real-world infrastructure and automa
 ## 📦 DevOps Projects
 🔹 **Flask EKS HPA** — Flask on Kubernetes with HPA scaling (2–6 pods at 60% CPU), NGINX Ingress, liveness/readiness probes, and GitHub Actions CI/CD pipeline
 
-🔹 **Kubernetes Flask Deployment** — Flask app on Minikube with 3-replica Deployment, NodePort Service, and HPA scaling (2–6 pods at 60% CPU)
+🔹 **Kubernetes Flask Deployment** — Flask app on Minikube with 3-replica Deployment and NodePort Service
 
 🔹 **CI/CD Pipeline with GitHub Actions**
 Automated pipeline that runs lint checks, tests, builds Docker images, and pushes to Docker Hub.
