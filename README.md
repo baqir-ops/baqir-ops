@@ -8,6 +8,7 @@ I am a DevOps learner focused on building **real-world infrastructure and automa
 
 ## 🛠 DevOps Tools & Technologies
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
