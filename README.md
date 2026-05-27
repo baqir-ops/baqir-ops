@@ -21,6 +21,8 @@ I am a DevOps learner focused on building **real-world infrastructure and automa
 
 ## 📦 DevOps Projects
 
+- **Kubernetes Flask Deployment** — Flask app on Minikube with 3-replica Deployment, NodePort Service, and HPA scaling (2–6 pods at 60% CPU)
+
 🔹 **CI/CD Pipeline with GitHub Actions**
 Automated pipeline that runs lint checks, tests, builds Docker images, and pushes to Docker Hub.
 
@@ -48,7 +50,6 @@ Simulated production outage and root cause analysis to practice incident respons
 
 Currently expanding knowledge in:
 
-* Kubernetes
 * Terraform
 * Advanced CI/CD pipelines
 * Monitoring (Prometheus & Grafana)
