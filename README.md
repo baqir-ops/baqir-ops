@@ -40,6 +40,7 @@ Simulated production outage and root cause analysis to practice incident respons
 
 ## ⭐ Featured Repositories
 
+- **aws-ecs-flask-cicd** → https://github.com/baqir-ops/aws-ecs-flask-cicd
 - **flask-eks-hpa** → https://github.com/baqir-ops/flask-eks-hpa
 - **k8s-flask-deployment** → https://github.com/baqir-ops/k8s-flask-deployment
 - **multi-env-cicd** → https://github.com/baqir-ops/multi-env-cicd
