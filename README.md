@@ -20,6 +20,8 @@ I am a DevOps learner focused on building **real-world infrastructure and automa
 ---
 
 ## 📦 DevOps Projects
+🔹 **AWS ECS Flask CI/CD** — Production-style Flask deployment using Docker, Gunicorn, Amazon ECR, ECS Fargate, ALB, CloudWatch Logs, and GitHub Actions CI/CD.
+
 🔹 **Flask EKS HPA** — Flask on Kubernetes with HPA scaling (2–6 pods at 60% CPU), NGINX Ingress, liveness/readiness probes, and GitHub Actions CI/CD pipeline
 
 🔹 **CI/CD Pipeline with GitHub Actions**
